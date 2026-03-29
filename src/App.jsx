@@ -48,6 +48,12 @@ function App() {
         alt="logo"
         style={{ width: 500, height: 650 }}
       />
+      <img
+        src="R.jpg"
+        className="App-logo"
+        alt="logo"
+        style={{ width: 500, height: 650 }}
+      />
       {/* Steps */}
       <h2 style={{ fontSize: 16, color: "#555", marginBottom: 14 }}>ขั้นตอนการทำงาน</h2>
       {steps.map((step, i) => (
