@@ -371,7 +371,7 @@ export default function App() {
 
       {/* PROMO BANNER */}
       <div className="banner">
-        <h2>ซื้อครบ 3 แก้ว ลด 80%</h2>
+        <h2>ซื้อครบ 3 แก้ว ลด 25%</h2>
         <p>โปรโมชั่นพิเศษสำหรับสมาชิก · วันนี้เท่านั้น</p>
         <button className="banner-btn">สมัครสมาชิกฟรี</button>
       </div>
